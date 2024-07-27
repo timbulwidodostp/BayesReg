@@ -1,6 +1,8 @@
 # BayesReg
 Bayesian linear regression output Use BayesReg (bayess) With (In) R Software
 
+https://www.youtube.com/watch?v=N-mtc5TATCw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
